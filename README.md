@@ -2,9 +2,9 @@
 ## Web application  with a codebase that follows accessibility standards so that the site is optimized for search engines
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
+- This projects motivation was for me better learn semantic HTML and familiarize myself with the exercise of refactoring code. 
+
+- The main focus I had when working on this was to get rid of `<div>` tags present in a previous version of the code, making it easier for myself or others to modify the code in the future
 - What did you learn?
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
