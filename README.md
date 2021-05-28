@@ -9,4 +9,8 @@
 
 <br/>
 
-[Click this link to view the App!](https://shaneconwell.github.io/marketingAgency-SampleWebApp/)
+[Click here to view the App!](https://shaneconwell.github.io/marketingAgency-SampleWebApp/)
+
+<br/>
+
+![Website Screenshot](assets/images/screencapture-shaneconwell-github-io-marketingAgency-SampleWebApp-2021-05-27-19_54_09.png)
