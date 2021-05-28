@@ -1,7 +1,7 @@
 # marketingAgency-SampleWebApp
 ## Web application  with a codebase that follows accessibility standards so that the site is optimized for search engines
 
-<br/><br/>
+<br/>
 
 - This projects motivation was for me better learn semantic HTML and familiarize myself with the exercise of refactoring code. 
 
